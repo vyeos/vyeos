@@ -1,4 +1,7 @@
 ## Hi there, I am Rudra Patel👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RudraPatel5435&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <pre>
 
 - 😊 I’m a first-year computer science student with a passion for frontend web development. 🚀
