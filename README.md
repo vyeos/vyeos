@@ -1,25 +1,10 @@
-## Hi there, I am Rudra Patel👋
+## Hello this is Vyeos.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RudraPatel5435&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<pre>
-
-- 😊 I’m a first-year computer science student with a passion for frontend web development. 🚀
-
-- 🌱 I’ve learned: HTML, CSS, JavaScript, Python, and C. Currently diving into React JS and loving every moment of it!
-
-- 🎨 I enjoy: Creating sleek and responsive user interfaces that make a difference!
-
-- 💡 Aspiring: To master the full stack, but for now, I’m focused on building beautiful and functional web experiences.
-
-- ✨ Fun fact: I’m always on the lookout for inspiration to level up my design skills.
-
-- 📬 Let’s connect: Open to collaborating and learning from fellow developers!
-
-<pre><b> 🎉 Hobbies:</b> 🏋️ Working out
-             👬 Hanging out with the boys
-             💻 Learning about tech</pre></pre>
-              
-👀 Don’t forget to visit my profile, explore the repos I’ve worked on, and check out my updates on X (https://x.com/RudraPatel5435)!
-
-Have Fun Coding! 👨‍💻 
+I try to make awesome stuff. Most of the times I ship them but sometimes but have to abondon them because they have bullied my brain a lot. 
+Below are some of my projects that I loved to build.
+- [ZendraPdf](github.com/vyeos/zendrapdf) - AI PDF creator with PDF tools (tried to compete with ilovepdf but lost)
+- [ASPDC](github.com/aspdc/aspdc-revamped) - My college's coding club's website
+- [Snake Game](github.com/vyeos/love-snake) - Started by making a traditional snake game and added fun elements to it.
+- [vshl](github.com/vyeos/vshl) - My attempt to create a shell using C (Inspiration for using C [MagicalBat](https://www.youtube.com/@Magicalbat)
+- [Hotshop](github.com/vyeos/hotshot) - Just see it, i won't be able to say anything about it.
+- [My Youtube channel](https://www.youtube.com/@snailscript) - Currently, not making any videos on it.
