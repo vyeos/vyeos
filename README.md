@@ -1,6 +1,6 @@
 ## Hello this is Vyeos.
 
-I try to make awesome stuff. Most of the times I ship them but sometimes but have to abondon them because they have bullied my brain a lot. 
+I try to build awesome stuff. Most of the times I ship them but sometimes have to abandon them because they have bullied my brain a lot. 
 Below are some of my projects that I loved to build.
 - [ZendraPdf](github.com/vyeos/zendrapdf) - AI PDF creator with PDF tools (tried to compete with ilovepdf but lost)
 - [ASPDC](github.com/aspdc/aspdc-revamped) - My college's coding club's website
